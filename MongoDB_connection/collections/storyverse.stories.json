@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "687fc4e172868999c9e2755b"
+  },
+  "title": "The Last Sunrise",
+  "genre": "Sci-Fi",
+  "mood": "Suspenseful",
+  "creatorId": {
+    "$oid": "64e2f7a4a5dce10f12345601"
+  },
+  "contributors": [],
+  "chapters": [],
+  "status": "ongoing",
+  "createdAt": {
+    "$date": "2025-07-22T17:05:37.084Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:05:37.084Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc4e172868999c9e2755c"
+  },
+  "title": "Whispers of the Forest",
+  "genre": "Fantasy",
+  "mood": "Mysterious",
+  "creatorId": {
+    "$oid": "64e2f7a4a5dce10f12345602"
+  },
+  "contributors": [],
+  "chapters": [],
+  "status": "ongoing",
+  "createdAt": {
+    "$date": "2025-07-22T17:05:37.084Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:05:37.084Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc4e172868999c9e2755d"
+  },
+  "title": "Echoes in the Abyss",
+  "genre": "Horror",
+  "mood": "Terrifying",
+  "creatorId": {
+    "$oid": "64e2f7a4a5dce10f12345603"
+  },
+  "contributors": [],
+  "chapters": [],
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-07-22T17:05:37.085Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:05:37.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc4e172868999c9e2755e"
+  },
+  "title": "Digital Dreams",
+  "genre": "Cyberpunk",
+  "mood": "Thrilling",
+  "creatorId": {
+    "$oid": "64e2f7a4a5dce10f12345604"
+  },
+  "contributors": [],
+  "chapters": [],
+  "status": "ongoing",
+  "createdAt": {
+    "$date": "2025-07-22T17:05:37.085Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:05:37.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc4e172868999c9e2755f"
+  },
+  "title": "Beneath the Crimson Moon",
+  "genre": "Romance",
+  "mood": "Emotional",
+  "creatorId": {
+    "$oid": "64e2f7a4a5dce10f12345605"
+  },
+  "contributors": [],
+  "chapters": [],
+  "status": "ongoing",
+  "createdAt": {
+    "$date": "2025-07-22T17:05:37.085Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:05:37.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc4e172868999c9e27560"
+  },
+  "title": "Chronicles of the Forgotten Realm",
+  "genre": "Adventure",
+  "mood": "Epic",
+  "creatorId": {
+    "$oid": "64e2f7a4a5dce10f12345606"
+  },
+  "contributors": [],
+  "chapters": [],
+  "status": "ongoing",
+  "createdAt": {
+    "$date": "2025-07-22T17:05:37.085Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:05:37.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc4e172868999c9e27561"
+  },
+  "title": "The Quantum Paradox",
+  "genre": "Sci-Fi",
+  "mood": "Mind-Bending",
+  "creatorId": {
+    "$oid": "64e2f7a4a5dce10f12345607"
+  },
+  "contributors": [],
+  "chapters": [],
+  "status": "paused",
+  "createdAt": {
+    "$date": "2025-07-22T17:05:37.085Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:05:37.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc4e172868999c9e27562"
+  },
+  "title": "Echoes of Eternity",
+  "genre": "Fantasy",
+  "mood": "Mysterious",
+  "creatorId": {
+    "$oid": "64e2f7a4a5dce10f12345608"
+  },
+  "contributors": [],
+  "chapters": [],
+  "status": "ongoing",
+  "createdAt": {
+    "$date": "2025-07-22T17:06:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:06:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc4e172868999c9e27563"
+  },
+  "title": "Ashes and Alloy",
+  "genre": "Post-Apocalyptic",
+  "mood": "Dark",
+  "creatorId": {
+    "$oid": "64e2f7a4a5dce10f12345609"
+  },
+  "contributors": [],
+  "chapters": [],
+  "status": "paused",
+  "createdAt": {
+    "$date": "2025-07-22T17:06:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:06:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc4e172868999c9e27564"
+  },
+  "title": "The Mind's Labyrinth",
+  "genre": "Psychological Thriller",
+  "mood": "Intense",
+  "creatorId": {
+    "$oid": "64e2f7a4a5dce10f12345610"
+  },
+  "contributors": [],
+  "chapters": [],
+  "status": "completed",
+  "createdAt": {
+    "$date": "2025-07-22T17:06:30.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:06:30.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc4e172868999c9e27565"
+  },
+  "title": "The Clockmaker's Secret",
+  "genre": "Mystery",
+  "mood": "Suspenseful",
+  "creatorId": {
+    "$oid": "64e2f7a4a5dce10f12345611"
+  },
+  "contributors": [],
+  "chapters": [],
+  "status": "ongoing",
+  "createdAt": {
+    "$date": "2025-07-22T17:06:30.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:06:30.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc4e172868999c9e27566"
+  },
+  "title": "Wired for Destiny",
+  "genre": "Techno-Thriller",
+  "mood": "Gripping",
+  "creatorId": {
+    "$oid": "64e2f7a4a5dce10f12345612"
+  },
+  "contributors": [],
+  "chapters": [],
+  "status": "ongoing",
+  "createdAt": {
+    "$date": "2025-07-22T17:07:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:07:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc4e172868999c9e27567"
+  },
+  "title": "Whispers in the Rain",
+  "genre": "Drama",
+  "mood": "Melancholic",
+  "creatorId": {
+    "$oid": "64e2f7a4a5dce10f12345613"
+  },
+  "contributors": [],
+  "chapters": [],
+  "status": "ongoing",
+  "createdAt": {
+    "$date": "2025-07-22T17:07:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:07:00.000Z"
+  }
+}]

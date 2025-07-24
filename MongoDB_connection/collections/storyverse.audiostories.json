@@ -1,0 +1,149 @@
+[{
+  "_id": {
+    "$oid": "687fcc7fc8d70f88eedabfef"
+  },
+  "storyId": {
+    "$oid": "60d5ec49f2b3a1c8a0b3b2a1"
+  },
+  "chapterId": {
+    "$oid": "60d5ec49f2b3a1c8a0b3b2a2"
+  },
+  "narrator": "AI Voice 1",
+  "audioUrl": "https://cdn.storyverse.com/audio/chapter1.mp3",
+  "soundEffects": [
+    "thunder",
+    "footsteps"
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:38:07.526Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:38:07.527Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcd56a25c3437a8ebe726"
+  },
+  "title": "The Whispering Forest",
+  "author": "Ava Harper",
+  "duration": 360,
+  "genre": "Mystery",
+  "language": "English",
+  "releaseDate": {
+    "$date": "2024-01-15T00:00:00.000Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "687fcd56a25c3437a8ebe727"
+  },
+  "title": "Echoes of Time",
+  "author": "Liam Stone",
+  "duration": 540,
+  "genre": "Sci-Fi",
+  "language": "English",
+  "releaseDate": {
+    "$date": "2024-03-20T00:00:00.000Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "687fcd56a25c3437a8ebe728"
+  },
+  "title": "Raag Sandhya",
+  "author": "Meera Iyer",
+  "duration": 300,
+  "genre": "Mythology",
+  "language": "Hindi",
+  "releaseDate": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "687fcd56a25c3437a8ebe729"
+  },
+  "title": "Tales from the Ghat",
+  "author": "Ravi Narayan",
+  "duration": 420,
+  "genre": "Folklore",
+  "language": "Hindi",
+  "releaseDate": {
+    "$date": "2024-02-28T00:00:00.000Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68800001a25c3437a8ebe701"
+  },
+  "title": "The Whispering Forest",
+  "author": "Ava Harper",
+  "duration": 360,
+  "genre": "Mystery",
+  "language": "English",
+  "releaseDate": {
+    "$date": "2024-01-15T00:00:00.000Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68800001a25c3437a8ebe702"
+  },
+  "title": "Raag Sandhya",
+  "author": "Meera Iyer",
+  "duration": 300,
+  "genre": "Mythology",
+  "language": "Hindi",
+  "releaseDate": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "68800001a25c3437a8ebe703"
+  },
+  "title": "Voices from the Past",
+  "author": "Liam Bennett",
+  "duration": 420,
+  "genre": "Historical Fiction",
+  "language": "English",
+  "releaseDate": {
+    "$date": "2023-11-20T00:00:00.000Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68800001a25c3437a8ebe704"
+  },
+  "title": "Surya Namaskar",
+  "author": "Ritu Sharma",
+  "duration": 180,
+  "genre": "Spiritual",
+  "language": "Hindi",
+  "releaseDate": {
+    "$date": "2023-12-05T00:00:00.000Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "68800001a25c3437a8ebe705"
+  },
+  "title": "City of Ashes",
+  "author": "Noah Walker",
+  "duration": 550,
+  "genre": "Thriller",
+  "language": "English",
+  "releaseDate": {
+    "$date": "2024-06-01T00:00:00.000Z"
+  },
+  "isPublished": false
+}]

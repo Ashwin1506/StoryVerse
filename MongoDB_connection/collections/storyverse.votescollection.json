@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "687fc8fbccf7bb145bd6f601"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345601"
+  },
+  "userId": {
+    "$oid": "64e2f7a4a5dce10f12345611"
+  },
+  "voteType": "upvote",
+  "votedAt": {
+    "$date": "2025-07-22T17:23:07.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc8fbccf7bb145bd6f602"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345602"
+  },
+  "userId": {
+    "$oid": "64e2f7a4a5dce10f12345612"
+  },
+  "voteType": "upvote",
+  "votedAt": {
+    "$date": "2025-07-22T17:23:07.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc8fbccf7bb145bd6f603"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345601"
+  },
+  "userId": {
+    "$oid": "64e2f7a4a5dce10f12345613"
+  },
+  "voteType": "downvote",
+  "votedAt": {
+    "$date": "2025-07-22T17:23:07.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc8fbccf7bb145bd6f604"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345603"
+  },
+  "userId": {
+    "$oid": "64e2f7a4a5dce10f12345614"
+  },
+  "voteType": "upvote",
+  "votedAt": {
+    "$date": "2025-07-22T17:23:07.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc8fbccf7bb145bd6f605"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345603"
+  },
+  "userId": {
+    "$oid": "64e2f7a4a5dce10f12345611"
+  },
+  "voteType": "downvote",
+  "votedAt": {
+    "$date": "2025-07-22T17:23:07.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc8fbccf7bb145bd6f606"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345602"
+  },
+  "userId": {
+    "$oid": "64e2f7a4a5dce10f12345615"
+  },
+  "voteType": "upvote",
+  "votedAt": {
+    "$date": "2025-07-22T17:23:07.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fd003ccf7bb145bd6f60b"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345607"
+  },
+  "userId": {
+    "$oid": "64e2f7a4a5dce10f12345619"
+  },
+  "voteType": "downvote",
+  "votedAt": {
+    "$date": "2025-07-22T17:35:20.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fd003ccf7bb145bd6f60c"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345605"
+  },
+  "userId": {
+    "$oid": "64e2f7a4a5dce10f12345614"
+  },
+  "voteType": "downvote",
+  "votedAt": {
+    "$date": "2025-07-22T17:35:20.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fd002ccf7bb145bd6f609"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345606"
+  },
+  "userId": {
+    "$oid": "64e2f7a4a5dce10f12345618"
+  },
+  "voteType": "upvote",
+  "votedAt": {
+    "$date": "2025-07-22T17:32:10.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fd002ccf7bb145bd6f60a"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345604"
+  },
+  "userId": {
+    "$oid": "64e2f7a4a5dce10f12345613"
+  },
+  "voteType": "upvote",
+  "votedAt": {
+    "$date": "2025-07-22T17:32:10.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fd001ccf7bb145bd6f607"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345604"
+  },
+  "userId": {
+    "$oid": "64e2f7a4a5dce10f12345616"
+  },
+  "voteType": "upvote",
+  "votedAt": {
+    "$date": "2025-07-22T17:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fd001ccf7bb145bd6f608"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345605"
+  },
+  "userId": {
+    "$oid": "64e2f7a4a5dce10f12345617"
+  },
+  "voteType": "downvote",
+  "votedAt": {
+    "$date": "2025-07-22T17:30:00.000Z"
+  }
+}]
