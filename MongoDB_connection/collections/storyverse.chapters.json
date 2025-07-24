@@ -1,0 +1,222 @@
+[{
+  "_id": {
+    "$oid": "687fc65a71af295ff8e23ba7"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345601"
+  },
+  "title": "Chapter 1: Awakening",
+  "content": "In a world where the sun no longer rises...",
+  "media": {
+    "images": [],
+    "audio": []
+  },
+  "contributors": [
+    {
+      "$oid": "64e2f7a4a5dce10f12345602"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:11:54.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:11:54.621Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc73419fc701839e64c1b"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345601"
+  },
+  "title": "Chapter 1: Awakening",
+  "content": "In a world where the sun no longer rises, a hero must awaken.",
+  "media": {
+    "images": [],
+    "audio": []
+  },
+  "contributors": [
+    {
+      "$oid": "64e2f7a4a5dce10f12345611"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:15:32.413Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:15:32.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc73419fc701839e64c1c"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345601"
+  },
+  "title": "Chapter 2: The First Light",
+  "content": "A glimmer of hope breaks through the endless night.",
+  "media": {
+    "images": [],
+    "audio": []
+  },
+  "contributors": [
+    {
+      "$oid": "64e2f7a4a5dce10f12345612"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:15:32.413Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:15:32.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc73419fc701839e64c1d"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345602"
+  },
+  "title": "Chapter 1: The Gate Opens",
+  "content": "Beyond the city walls lies a forgotten realm.",
+  "media": {
+    "images": [],
+    "audio": []
+  },
+  "contributors": [
+    {
+      "$oid": "64e2f7a4a5dce10f12345613"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:15:32.413Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:15:32.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc73419fc701839e64c1e"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345602"
+  },
+  "title": "Chapter 2: Into the Mist",
+  "content": "The journey begins through fog and fear.",
+  "media": {
+    "images": [],
+    "audio": []
+  },
+  "contributors": [
+    {
+      "$oid": "64e2f7a4a5dce10f12345614"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:15:32.414Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:15:32.414Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc73419fc701839e64c1f"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345603"
+  },
+  "title": "Chapter 1: Dead Silence",
+  "content": "Something watches from the shadows...",
+  "media": {
+    "images": [],
+    "audio": []
+  },
+  "contributors": [
+    {
+      "$oid": "64e2f7a4a5dce10f12345615"
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:15:32.414Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:15:32.414Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68800010a25c3437a8ebe710"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345604"
+  },
+  "title": "Chapter 1: Shadows Stir",
+  "content": "In the depths of the ruins, whispers awaken the dark.",
+  "media": {},
+  "contributors": [],
+  "createdAt": {
+    "$date": "2025-07-22T17:15:32.413Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:15:32.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68800010a25c3437a8ebe711"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345604"
+  },
+  "title": "Chapter 2: Bloodstone Path",
+  "content": "The old path runs red with the blood of secrets past.",
+  "media": {},
+  "contributors": [],
+  "createdAt": {
+    "$date": "2025-07-22T17:15:32.413Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:15:32.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68800010a25c3437a8ebe712"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345605"
+  },
+  "title": "Chapter 1: Crimson Sky",
+  "content": "Flames danced on the horizon as fate descended.",
+  "media": {},
+  "contributors": [],
+  "createdAt": {
+    "$date": "2025-07-22T17:15:32.413Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:15:32.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68800010a25c3437a8ebe713"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345605"
+  },
+  "title": "Chapter 2: The Pact",
+  "content": "Bound by ancient words, a hero rises from the ashes.",
+  "media": {},
+  "contributors": [],
+  "createdAt": {
+    "$date": "2025-07-22T17:15:32.413Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:15:32.413Z"
+  }
+}]

@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "687fc13972868999c9e27553"
+  },
+  "username": "storyfan123",
+  "email": "storyfan123@storyverse.com",
+  "bio": "Loves sci-fi and fantasy storytelling.",
+  "roles": [
+    "reader",
+    "writer"
+  ],
+  "endorsements": 25,
+  "createdAt": {
+    "$date": "2025-07-22T16:50:01.492Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T16:50:01.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc580d33dc6987cda5da3"
+  },
+  "name": "Alice Johnson",
+  "email": "alice@example.com",
+  "username": "alice_j",
+  "bio": "Aspiring sci-fi author and space enthusiast.",
+  "joinedAt": {
+    "$date": "2025-07-22T17:08:16.574Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "687fc580d33dc6987cda5da4"
+  },
+  "name": "Brian Smith",
+  "email": "brian@example.com",
+  "username": "briansmith99",
+  "bio": "Lover of fantasy worlds and dragons.",
+  "joinedAt": {
+    "$date": "2025-07-22T17:08:16.574Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "687fc580d33dc6987cda5da5"
+  },
+  "name": "Clara Lee",
+  "email": "clara@example.com",
+  "username": "claralee_writer",
+  "bio": "Writes thrillers and suspense stories.",
+  "joinedAt": {
+    "$date": "2025-07-22T17:08:16.574Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "687fc580d33dc6987cda5da6"
+  },
+  "name": "David Kumar",
+  "email": "davidk@example.com",
+  "username": "davidkumar",
+  "bio": "Historian turned historical fiction author.",
+  "joinedAt": {
+    "$date": "2025-07-22T17:08:16.574Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "687fc580d33dc6987cda5da7"
+  },
+  "name": "Emily Rodriguez",
+  "email": "emilyr@example.com",
+  "username": "emilywrites",
+  "bio": "Romance novelist and poet.",
+  "joinedAt": {
+    "$date": "2025-07-22T17:08:16.574Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "687fc580d33dc6987cda5da8"
+  },
+  "name": "Farhan Ali",
+  "email": "farhan@example.com",
+  "username": "farhanali",
+  "bio": "Cyberpunk and dystopian fiction fan.",
+  "joinedAt": {
+    "$date": "2025-07-22T17:08:16.574Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "687fc580d33dc6987cda5da9"
+  },
+  "name": "Grace Taylor",
+  "email": "gracet@example.com",
+  "username": "gracetaylor",
+  "bio": "Children’s book author with a love for storytelling.",
+  "joinedAt": {
+    "$date": "2025-07-22T17:08:16.574Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "687fda925ac00b44648de365"
+  },
+  "id": "687fc13972868999c9e27554",
+  "username": "audiophile22",
+  "email": "audiophile22@storyverse.com",
+  "bio": "Passionate about narrative podcasts and immersive audio.",
+  "roles": [
+    "listener",
+    "reviewer"
+  ],
+  "endorsements": 18,
+  "createdAt": {
+    "$date": "2025-07-22T16:55:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T16:55:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fda925ac00b44648de366"
+  },
+  "id": "687fc13972868999c9e27555",
+  "username": "narratorAI",
+  "email": "narratorai@storyverse.com",
+  "bio": "Voice behind your favorite stories.",
+  "roles": [
+    "narrator",
+    "contributor"
+  ],
+  "endorsements": 42,
+  "createdAt": {
+    "$date": "2025-07-22T17:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:00:00.000Z"
+  }
+}]

@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "687fc7ca760fbffdb36182d5"
+  },
+  "name": "Elysia",
+  "storyId": {
+    "$oid": "60d5ec49f2b3a1c8a0b3b2a1"
+  },
+  "description": "A time traveler lost in ancient Egypt.",
+  "traits": [
+    "brave",
+    "curious"
+  ],
+  "timelineEvents": [],
+  "createdAt": {
+    "$date": "2025-07-22T17:18:02.288Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:18:02.288Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc836760fbffdb36182d6"
+  },
+  "name": "Kael Ardent",
+  "role": "Protagonist",
+  "description": "A fearless warrior destined to restore light to a darkened world.",
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345601"
+  },
+  "traits": [
+    "brave",
+    "resilient",
+    "leader"
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc836760fbffdb36182d7"
+  },
+  "name": "Liora Vex",
+  "role": "Antagonist",
+  "description": "A sorceress bent on keeping the world in eternal darkness.",
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345601"
+  },
+  "traits": [
+    "cunning",
+    "powerful",
+    "manipulative"
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc836760fbffdb36182d8"
+  },
+  "name": "Thorn Blackwood",
+  "role": "Sidekick",
+  "description": "A loyal friend and master of ancient technologies.",
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345602"
+  },
+  "traits": [
+    "intelligent",
+    "loyal",
+    "witty"
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc836760fbffdb36182d9"
+  },
+  "name": "Eira Windshade",
+  "role": "Mentor",
+  "description": "A wise elder guiding the protagonist on their journey.",
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345603"
+  },
+  "traits": [
+    "wise",
+    "calm",
+    "mysterious"
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc836760fbffdb36182da"
+  },
+  "name": "Juno Sparks",
+  "role": "Tech Expert",
+  "description": "Engineer and hacker with a knack for getting out of trouble.",
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345602"
+  },
+  "traits": [
+    "sarcastic",
+    "tech-savvy",
+    "brilliant"
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc836760fbffdb36182db"
+  },
+  "name": "Zane Hollow",
+  "role": "Villain's Henchman",
+  "description": "A former hero turned rogue under the villain’s command.",
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345603"
+  },
+  "traits": [
+    "conflicted",
+    "strong",
+    "silent"
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68800020a25c3437a8ebe720"
+  },
+  "name": "Kael Ironhart",
+  "role": "Protagonist",
+  "description": "A warrior burdened by prophecy and past regrets.",
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345604"
+  },
+  "traits": [
+    "Brave",
+    "Haunted",
+    "Honorable"
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68800020a25c3437a8ebe721"
+  },
+  "name": "Nia Starflare",
+  "role": "Guide",
+  "description": "A mysterious oracle who speaks in riddles.",
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345604"
+  },
+  "traits": [
+    "Mysterious",
+    "Wise",
+    "Cryptic"
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68800020a25c3437a8ebe722"
+  },
+  "name": "Draven Voss",
+  "role": "Antagonist",
+  "description": "A tyrant king who uses forbidden magic to rule.",
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345605"
+  },
+  "traits": [
+    "Cruel",
+    "Powerful",
+    "Strategic"
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68800020a25c3437a8ebe723"
+  },
+  "name": "Lina Greywing",
+  "role": "Scout",
+  "description": "An agile explorer who uncovers secrets hidden in ruins.",
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345605"
+  },
+  "traits": [
+    "Curious",
+    "Quick",
+    "Resourceful"
+  ],
+  "createdAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:19:50.578Z"
+  }
+}]

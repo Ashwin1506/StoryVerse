@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "687fca0b4741ebde9a0b6c7d"
+  },
+  "fromUserId": {
+    "$oid": "60d5ec49f2b3a1c8a0b3b2a1"
+  },
+  "toUserId": {
+    "$oid": "60d5ec49f2b3a1c8a0b3b2a2"
+  },
+  "tokens": 5,
+  "message": "Loved your latest chapter!",
+  "createdAt": {
+    "$date": "2025-07-22T17:27:39.363Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcc2381361219d3c15ae3"
+  },
+  "userId": "user123",
+  "storyId": "story001",
+  "endorsementText": "Amazing storyline!",
+  "timestamp": {
+    "$date": "2025-07-22T17:36:35.435Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcc2381361219d3c15ae4"
+  },
+  "userId": "user124",
+  "storyId": "story002",
+  "endorsementText": "Very engaging plot.",
+  "timestamp": {
+    "$date": "2025-07-22T17:36:35.435Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fcc2381361219d3c15ae5"
+  },
+  "userId": "user125",
+  "storyId": "story003",
+  "endorsementText": "Loved the characters!",
+  "timestamp": {
+    "$date": "2025-07-22T17:36:35.435Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68800030a25c3437a8ebe730"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345605"
+  },
+  "endorsedBy": {
+    "$oid": "64e2f7a4a5dce10f12345617"
+  },
+  "comment": "The emotional depth in this story is incredible!",
+  "endorsedAt": {
+    "$date": "2025-07-22T17:31:16.243Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68800030a25c3437a8ebe731"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345606"
+  },
+  "endorsedBy": {
+    "$oid": "64e2f7a4a5dce10f12345618"
+  },
+  "comment": "Gripping narrative with stunning pacing!",
+  "endorsedAt": {
+    "$date": "2025-07-22T17:31:16.243Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68800030a25c3437a8ebe732"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345607"
+  },
+  "endorsedBy": {
+    "$oid": "64e2f7a4a5dce10f12345619"
+  },
+  "comment": "Each chapter builds suspense masterfully.",
+  "endorsedAt": {
+    "$date": "2025-07-22T17:31:16.243Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68800030a25c3437a8ebe733"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345608"
+  },
+  "endorsedBy": {
+    "$oid": "64e2f7a4a5dce10f1234561a"
+  },
+  "comment": "Such a brilliant use of symbolism and imagery.",
+  "endorsedAt": {
+    "$date": "2025-07-22T17:31:16.243Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68800030a25c3437a8ebe734"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345603"
+  },
+  "endorsedBy": {
+    "$oid": "64e2f7a4a5dce10f1234561b"
+  },
+  "comment": "I was hooked from the first sentence!",
+  "endorsedAt": {
+    "$date": "2025-07-22T17:31:16.243Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68800030a25c3437a8ebe735"
+  },
+  "storyId": {
+    "$oid": "64e2f7a4a5dce10f12345602"
+  },
+  "endorsedBy": {
+    "$oid": "64e2f7a4a5dce10f1234561c"
+  },
+  "comment": "Super creative storyline. Loved every moment.",
+  "endorsedAt": {
+    "$date": "2025-07-22T17:31:16.243Z"
+  }
+}]

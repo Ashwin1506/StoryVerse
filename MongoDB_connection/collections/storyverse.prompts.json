@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "687fc94a5ea60798a6707848"
+  },
+  "promptText": "What if the sun never rose again?",
+  "creatorId": {
+    "$oid": "60d5ec49f2b3a1c8a0b3b2a1"
+  },
+  "genre": "Sci-Fi",
+  "mood": "Dark",
+  "createdAt": {
+    "$date": "2025-07-22T17:24:26.705Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:24:26.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9975ea60798a6707849"
+  },
+  "title": "The Last Transmission",
+  "description": "Write a story that begins with a mysterious radio signal from a long-lost spaceship.",
+  "category": "Sci-Fi",
+  "createdBy": {
+    "$oid": "64e2f7a4a5dce10f12345611"
+  },
+  "createdAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9975ea60798a670784a"
+  },
+  "title": "The Forgotten Door",
+  "description": "A child discovers a hidden door in their attic that leads to another world.",
+  "category": "Fantasy",
+  "createdBy": {
+    "$oid": "64e2f7a4a5dce10f12345612"
+  },
+  "createdAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9975ea60798a670784b"
+  },
+  "title": "One Hour to Live",
+  "description": "Your character receives a message that they have one hour left. How do they spend it?",
+  "category": "Thriller",
+  "createdBy": {
+    "$oid": "64e2f7a4a5dce10f12345613"
+  },
+  "createdAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9975ea60798a670784c"
+  },
+  "title": "Rewrite History",
+  "description": "Imagine if a major historical event had a different outcome. How would the world change?",
+  "category": "Alternate History",
+  "createdBy": {
+    "$oid": "64e2f7a4a5dce10f12345614"
+  },
+  "createdAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9975ea60798a670784d"
+  },
+  "title": "Dreamwalker",
+  "description": "Your character can enter other people’s dreams. What do they discover?",
+  "category": "Mystery",
+  "createdBy": {
+    "$oid": "64e2f7a4a5dce10f12345615"
+  },
+  "createdAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9975ea60798a670784e"
+  },
+  "title": "Voices from the Walls",
+  "description": "Strange whispers are heard from the walls of an old house. What do they mean?",
+  "category": "Horror",
+  "createdBy": {
+    "$oid": "64e2f7a4a5dce10f12345616"
+  },
+  "createdAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9975ea60798a670784f"
+  },
+  "title": "Echoes of the Future",
+  "description": "A time traveler returns to a future that is nothing like they remember. What changed?",
+  "category": "Sci-Fi",
+  "createdBy": {
+    "$oid": "64e2f7a4a5dce10f12345617"
+  },
+  "createdAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9975ea60798a6707850"
+  },
+  "title": "The Mirror Realm",
+  "description": "A person discovers that their reflection is living a different life.",
+  "category": "Fantasy",
+  "createdBy": {
+    "$oid": "64e2f7a4a5dce10f12345618"
+  },
+  "createdAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9975ea60798a6707851"
+  },
+  "title": "The Final Day",
+  "description": "The world ends in 24 hours. Describe the last day from a unique point of view.",
+  "category": "Drama",
+  "createdBy": {
+    "$oid": "64e2f7a4a5dce10f12345619"
+  },
+  "createdAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9975ea60798a6707852"
+  },
+  "title": "The Shadow's Name",
+  "description": "A shadow detaches from its owner and begins to live its own life.",
+  "category": "Mystery",
+  "createdBy": {
+    "$oid": "64e2f7a4a5dce10f12345620"
+  },
+  "createdAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9975ea60798a6707853"
+  },
+  "title": "Artificial Dreams",
+  "description": "An AI begins to dream. What does it see?",
+  "category": "Sci-Fi",
+  "createdBy": {
+    "$oid": "64e2f7a4a5dce10f12345621"
+  },
+  "createdAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "687fc9975ea60798a6707854"
+  },
+  "title": "The Weight of Truth",
+  "description": "A magical scale forces people to confess a hidden truth. What secrets are revealed?",
+  "category": "Fantasy",
+  "createdBy": {
+    "$oid": "64e2f7a4a5dce10f12345622"
+  },
+  "createdAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  },
+  "updatedAt": {
+    "$date": "2025-07-22T17:25:43.636Z"
+  }
+}]
